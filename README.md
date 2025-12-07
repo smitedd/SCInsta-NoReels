@@ -1,6 +1,15 @@
 # SCInsta
-A feature-rich tweak for Instagram on iOS!\
-`Version v0.8.1` | `Tested on Instagram 384.0.0`
+SCInsta Fork - Permanently Removing Reels from Instagram with no way to reactivate them through any settings.
+`Version v0.8.1` | `Working on Instagram 384.0.0`
+
+# My Note : How to download the latest decrypted Instagram IPA version
+
+> - You must find the latest decrypted Instagram version to have all the features working -> [website affiliated with iosGods which is reliable](https://armconverter.com/decryptedappstore/us/instagram)
+
+This encrypted IPA will be patched when you fork this repo and build (in the Actions menu) a new IPA from the encrypted one integrating the features from this repo - disabling reels and so on.
+
+
+
 
 ---
 
